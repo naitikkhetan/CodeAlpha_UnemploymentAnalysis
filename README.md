@@ -22,4 +22,5 @@ Unemployment in India.csv
 - Covid-19 caused a sharp spike in unemployment in 2020.
 - Regional disparities show some states consistently face higher unemployment.
 - Seasonal cycles (especially April) influence employment variability.
-![Unemployment Trend]("C:\Users\PARAS NATH KUMAR\Downloads\covid_spike.png")
+![Unemployment Trend](images/covid_spike.png)
+
